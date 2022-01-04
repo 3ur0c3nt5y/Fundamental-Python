@@ -1,4 +1,4 @@
-![image](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking%20Windows.png?raw=true)
+![image](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental%20Python.png?raw=true)
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
