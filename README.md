@@ -15,6 +15,11 @@ This tutorial will discuss Python basic input and output.
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the lesson in PDF format. <br>
 
+## Chapter 2: DataTypes & Numbers
+This tutorial will discuss Python datatypes and numbers.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the lesson in PDF format. <br>
+
 ## BOOK IS UNDER DEVELOPMENT
 
 ## License
