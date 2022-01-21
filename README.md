@@ -20,6 +20,11 @@ This tutorial will discuss Python datatypes and numbers.
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the lesson in PDF format. <br>
 
+## Chapter 3: Conditional Logic
+This tutorial will discuss Python conditional logic.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the lesson in PDF format. <br>
+
 ## BOOK IS UNDER DEVELOPMENT
 
 ## License
