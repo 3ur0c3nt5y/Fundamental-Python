@@ -25,6 +25,11 @@ This tutorial will discuss Python conditional logic.
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the lesson in PDF format. <br>
 
+## Chapter 4: Lists, Tuples, Dictionaries & Loops
+This tutorial will discuss Python lists, tuples, dictionaries & loops.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the lesson in PDF format. <br>
+
 ## BOOK IS UNDER DEVELOPMENT
 
 ## License
