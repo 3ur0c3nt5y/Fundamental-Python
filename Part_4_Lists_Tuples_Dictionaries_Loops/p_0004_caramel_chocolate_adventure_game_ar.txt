@@ -1,0 +1,25 @@
+Caramel Chocolate Adventure Game Application Requirements
+-----------------------------------------------------------------
+1. Define the purpose of the application.
+   a. Create a game where a computer randomly chooses a chocolate 
+      from a pre-defined list and the player cycles through a series
+      of rooms and prompt the user for their selected room and if 
+      in that room is caramel the player wins otherwise gets another guess.  
+      If after that second guess and still does not find the room the player loses.
+2. Define the rules of the application.
+   a. Find the room with the caramel chocolate by guessing the correct room number.
+3. Define the logical steps of the application.
+   a. Create a chocolates list and populate it with milk, dark,
+      caramel and mint strings.
+   b. Create an empty rooms dictionary.
+   c. Create a guesses variable and init to 2.
+   f. Create a for loop to handle the choosing of the 
+      winning room.
+   g. Create a print sequence to intro the player to
+      the game.
+   h. Create a series of print statements to
+      explain the rules to the player.
+   i. Create a while loop based on guesses.
+   j. Create logic to check if the carmel is in the guessed room or not
+      and give them only 2 chances and create print statements accordingly.
+   k. Create logic based on win or lose and exit.
